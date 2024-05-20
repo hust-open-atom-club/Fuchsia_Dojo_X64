@@ -4,5 +4,7 @@ name: 浅红道馆
 
 type: intermediate
 
+comparator: 2000
+
 award:
-  belt: Soul
+  emoji: Soul
