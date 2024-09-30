@@ -8,3 +8,7 @@ comparator: 2000
 
 award:
   emoji: Soul
+
+challenges:
+  - id: simple-demo
+    icon: Chansey
