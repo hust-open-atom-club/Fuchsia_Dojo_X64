@@ -9,6 +9,6 @@ comparator: 2000
 award:
   emoji: Soul
 
-challenges:
+modules:
   - id: simple-demo
     icon: Chansey
